@@ -26,3 +26,17 @@ We have two district summaries above. The one on the top represents the updated 
 We have two pictures above showing the updated school summary and the original school summary. All the rows on both pictures are the same except the Thomas High School row. On tha updated school summary which is the one on the top shows that it drops 0.1% on the "% Passing Math" column, drops 0.3% on the "% Passing Reading" and 0.3% on the "% Overall Passing" column. It means that the passing percentages for ninth graders in Thomas High School are higher than the passing percentage for the whole Thomas High School.
 
 
+### How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other school?
+
+<img width="871" alt="Challenge top 5 schools" src="https://user-images.githubusercontent.com/92563285/142576859-e8fdbd67-32b8-4f43-89c3-05e2263b9d8e.png">
+
+<img width="781" alt="practice top 5 schools" src="https://user-images.githubusercontent.com/92563285/142576904-f9bdaa59-c506-4e0e-8a80-306dc77a8fea.png">
+
+The two pictures above reprent the updated top 5 schools which is the one on the top and original top 5 schools. It shows that Thomas High School remain the second out of the top 5 schools. 
+
+
+
+
+
+
+
