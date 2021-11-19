@@ -34,6 +34,59 @@ We have two pictures above showing the updated school summary and the original s
 
 The two pictures above reprent the updated top 5 schools which is the one on the top and original top 5 schools. It shows that Thomas High School remain the second out of the top 5 schools. 
 
+### How does replacing the ninth-grade scores affect the following:
+
+#### Math and reading scores by grade:
+
+<img width="309" alt="challenge reading score by grade" src="https://user-images.githubusercontent.com/92563285/142578607-e722e073-47a0-4444-9f39-f8704056bde6.png">
+
+<img width="310" alt="practice reading score by grade" src="https://user-images.githubusercontent.com/92563285/142578640-590ae393-6dad-4468-9c04-68e04c19dc12.png">
+
+<img width="315" alt="challenge math score by grade" src="https://user-images.githubusercontent.com/92563285/142578716-d2da425e-0f7a-472c-b6dd-667e43d1759d.png">
+
+<img width="310" alt="practice math score by grade" src="https://user-images.githubusercontent.com/92563285/142578732-9fa2e29e-f275-4049-9563-086ff9f0cd97.png">
+
+We are comparing the math and reading score by grade after we replace the Thomas High School ninth graders' math and reading score with NaN to the original math and reading score by grade. We can see that every single cell is the same except the two updated data pictures show nan on the Thomas High School ninth grader cell. 
+
+### Scores by school spending
+
+<img width="855" alt="challenge score by school spending" src="https://user-images.githubusercontent.com/92563285/142579140-a24bde50-9bf3-4f7e-8fca-1eeb287d3aef.png">
+
+<img width="784" alt="practice score by school spending" src="https://user-images.githubusercontent.com/92563285/142579155-c1d8ed33-2630-4f38-a59b-a4c19ce0780c.png">
+
+We are comparing the scores by school spending before and after we replace the Thomas High School ninth graders' grade with Nan. We can see that there is no change on both pictures. 
+
+### Scores by school size
+
+<img width="789" alt="challenge score by school size" src="https://user-images.githubusercontent.com/92563285/142579453-557e9798-3734-408a-9e9e-36c596347f10.png">
+
+<img width="765" alt="practice score by school size" src="https://user-images.githubusercontent.com/92563285/142579487-de6391b1-4bcb-4de3-8227-a8a9acb3bbde.png">
+
+We can see from the pictures above that the scores do not change after we replace the Thomas High School ninth graders' grade with NaN.
+
+### Scores by school type
+
+<img width="737" alt="challenge score by school type" src="https://user-images.githubusercontent.com/92563285/142579713-216b4e39-7c3e-4951-862e-29c80d1bdc2f.png">
+
+<img width="721" alt="practice score by school type" src="https://user-images.githubusercontent.com/92563285/142579734-0c9b23c8-8516-4974-8f23-bb137338e114.png">
+
+The scores by school type do not change after we replace the Thomas High School ninth graders' grade with NaN.
+
+
+## Summary:
+
+After we replace the Thomas High School ninth graders' grade with NaN, the passing percentages for Thomas High School drop a small percent; but the change is not significant. Since we only change a small portion of datas, the change does not affect the school ranking, scores by grade, scores by school spending, scores by school size nor scores by school type. 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
